@@ -44,4 +44,3 @@ We deepened our understanding of user experience in travel apps, refining our ap
 (Also available in figma-link.txt)
 
 *Designed in Figma | Mar 2025*
-```
